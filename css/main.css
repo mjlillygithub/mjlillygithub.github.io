@@ -775,6 +775,13 @@ td, th {
   }
 }
 
+@media (max-width: 767px) {
+  .capabilities-description {
+    font-size: 18px !important;
+    text-align: center;
+  }
+}
+
 .row.no-margin {
   margin-left: 0;
   margin-right: 0;
