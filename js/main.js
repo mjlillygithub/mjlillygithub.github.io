@@ -116,7 +116,7 @@ $(document).ready(function(){
         margin: 100,
         dots: true,
         autoplay:true,
-        autoplayTimeout:14000 ,
+        autoplayTimeout:11000 ,
         responsive: {
             0: {
                 items: 1
@@ -136,7 +136,7 @@ $(document).ready(function(){
         margin: 100,
         dots: true,
         autoplay:true,
-        autoplayTimeout:3500 ,
+        autoplayTimeout:6500 ,
         responsive: {
             0: {
                 items: 1
@@ -156,7 +156,7 @@ $(document).ready(function(){
         margin: 100,
         dots: true,
         autoplay:true,
-        autoplayTimeout:3000,
+        autoplayTimeout:5000,
         nav: true,
         navText: ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
         responsive: {
@@ -178,7 +178,7 @@ $(document).ready(function(){
         margin: 20,
         dots: true,
         autoplay:true,
-        autoplayTimeout:14000 ,
+        autoplayTimeout:14500 ,
         nav:true,
         navText: ["<span class='lnr lnr-arrow-up'></span>","<span class='lnr lnr-arrow-down'></span>"],        
         responsive: {
